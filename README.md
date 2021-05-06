@@ -1,4 +1,4 @@
-### Hi there 👋
+### nullptr/NULL/None/undefined
 
 <!--
 **dagrons/dagrons** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,5 +14,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-![wallhaven-j82evm_1920x1080](https://user-images.githubusercontent.com/61461791/117250395-b8d05600-ae75-11eb-95c6-4690ae57fa54.png)
-
+![QQ图片20210111193633](https://user-images.githubusercontent.com/61461791/117250512-ec12e500-ae75-11eb-8be8-413a68c607a8.gif)
