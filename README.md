@@ -1,5 +1,7 @@
 ### nullptr/NULL/None/undefined
 
+## 你来到了一片没有知识的荒岛
+
 <!--
 **dagrons/dagrons** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
