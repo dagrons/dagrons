@@ -1,4 +1,4 @@
-## nullptr/NULL/None/undefined
+# nullptr/NULL/None/undefined
 
 ## 你来到了一片没有知识的荒岛
 
