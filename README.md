@@ -21,6 +21,9 @@ Here are some ideas to get you started:
 
 [![Dagrons's GitHub stats](https://github-readme-stats.vercel.app/api?username=dagrons)](https://github.com/anuraghazra/github-readme-stats)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dagrons)](https://github.com/anuraghazra/github-readme-stats)
+
+
 
 Programming language I Use: Python, C++, Golang 
 
