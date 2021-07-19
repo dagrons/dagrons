@@ -19,6 +19,9 @@ Here are some ideas to get you started:
 
 ![QQ图片20210111193633](https://user-images.githubusercontent.com/61461791/117250512-ec12e500-ae75-11eb-8be8-413a68c607a8.gif)
 
+[![Dagrons's GitHub stats](https://github-readme-stats.vercel.app/api?username=dagrons)](https://github.com/anuraghazra/github-readme-stats)
+
+
 Programming language I Use: Python, C++, Golang 
 
 Framework I Know about: Flask, React, Vue
