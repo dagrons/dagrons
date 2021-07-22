@@ -1,25 +1,8 @@
-> nullptr/NULL/None/undefined
-
-## 你来到了一片没有知识的荒岛
-
-<!--
-**dagrons/dagrons** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**你来到了一片没有知识的荒岛**
 
 ![QQ图片20210111193633](https://user-images.githubusercontent.com/61461791/117250512-ec12e500-ae75-11eb-8be8-413a68c607a8.gif)
 
 
-Programming language I Use: Python, C++, Golang 
+*Programming language I Use: Python, C++, Golang 
 
-Framework I Know about: Flask, React, Vue
+*Framework I Know about: Flask, React, Vue
