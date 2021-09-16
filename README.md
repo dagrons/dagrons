@@ -7,4 +7,3 @@
 
 *Framework I Use: Flask, React, Vue*
 
-*Infra as Code: Docker, Ansible, Vagrant, Packer*
