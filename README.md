@@ -5,10 +5,6 @@
 
 *Programming language I Use: Python, Javascript，C++, Golang*
 
-*Framework I Use: Flask, React, Vue*
-
-*I am Interested In: Infra as Code, Problem Solving with Progrming*
-
-*I do not like: repetitive, useless, boring stuffs*
+*Framework I Use: Flask, React, Vue
 
 
