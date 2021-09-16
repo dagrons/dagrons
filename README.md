@@ -7,3 +7,8 @@
 
 *Framework I Use: Flask, React, Vue*
 
+*I am Interested In: Infra as Code, Problem Solving with Progrming*
+
+*I do not like: repetitive, useless, boring stuffs*
+
+
