@@ -5,6 +5,6 @@
 
 *Programming language I Use: Python, Javascript，C++, Golang*
 
-*Framework I Use: Flask, React, Vue
+*Framework I Use: Flask, React, Vue*
 
 
