@@ -7,4 +7,7 @@
 
 *Framework I Use: Flask, React, Vue*
 
+[acwing](https://www.acwing.com/user/myspace/index/35941/)
+[youtube](https://www.youtube.com/channel/UCBMjvhYIGKrCzbi-fEWOBkg)
+
 
