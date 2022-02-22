@@ -6,3 +6,5 @@
 *RoI*: web, homelab, malware
 
 *Lang*: go, python, Javascript
+
+从想法和概念，到平台和实践
