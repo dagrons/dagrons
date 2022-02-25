@@ -5,5 +5,5 @@
 
 *RoI*: web, homelab, malware
 
-*Lang*: go, python, Javascript, shell
+*Lang*: go, python, nodejs, shell
 
