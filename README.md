@@ -5,5 +5,5 @@
 
 *RoI*: security, homelab, rl
 
-*Lang*: python, go, java, shell, nodejs
+*Lang*: go, java, python
 
