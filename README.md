@@ -1,13 +1,4 @@
-[[**你来到了一片没有知识的荒岛**
-
 ![QQ图片20210111193633](https://user-images.githubusercontent.com/61461791/117250512-ec12e500-ae75-11eb-8be8-413a68c607a8.gif)
 
 
-*RoI*: security, homelab, rl
-
-*Lang*: python，java，go，js
-
-ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAABgQCfE1GFLjPXuEQDhK7PX0CJjhHYz6YHI82fRICKXFVF3XlodEG1ADpEPissEOsgVF6grkiOb1uBpr9pWhjKfvXGjHxXw1zq4szsuQ8XJNKCHMVdjpT2lHPvIXSLRU32ZTpZCUzqf63f4QWP3ao8ZacJDe4iVEEKp7moFXmiwxZr4NbdVsFpcanp7PWVLzDSIuqoty/RwMCmYwxV0l3Uh0+vwsIlGLLXYgTd4v0EoN7o+v5suQ/50RPUamIdlipxCPioPI52SR98249tMq1PyeVN3lf77uG17RJcDPIzU/XDQCJNSs4KuNeWbSc6DIgNyFM8FNdiNFJ7ajOX2SomTEQno/x68laEDK6tfDD1nVmhwQDQ6QxBRpNdUFOimpaoFwwlA5uoJsvTWNbDAQ+D8PsCc0aqjogSZVnog6Mmo/+jMf7iL6F68862wCv+GdH1s3xqHk8gAm/qJVTwQEDNA2Wg9W9vq6KcP9M+MUMUXyZC0wJZQsmEGlP8obGwwvCS4AM= heyuehui@hes-MacBook-Pro
-
-
-> simple idea, exported as code snippets
+*RoI*: net, dev, and secops
